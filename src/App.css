@@ -27,6 +27,50 @@
 .App-link {
   color: #61dafb;
 }
+.saikumar{
+  color : red;
+}
+
+
+
+
+.headline {
+  text-align: center;
+  align-items: center;
+  padding: 20px 0;
+  border-bottom: 2px solid gray;
+}
+.topDiv{
+  display: flex;
+  justify-content: space-between;
+}
+.sideBar{
+  display: inline-grid;
+  margin: 20px 30px;
+}
+.tab{
+  /* display: ;
+  flex-direction: row; */
+  display: inline;
+  padding: 10px 30px;
+  border: 2px solid gray;
+}
+
+.loginBtn{
+  margin: 20px 30px;
+  height: fit-content;
+  padding: 10px 30px;
+  border: 2px solid green;
+}
+
+.ticketImgDiv{
+
+}
+
+
+
+
+
 
 @keyframes App-logo-spin {
   from {
